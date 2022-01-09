@@ -1,9 +1,9 @@
-#Proyecto Prueba Express
+# Proyecto Prueba Express
 
-#Proyecto inicial creado para introduccion en Express.
+Proyecto inicial creado para introduccion en Express.
 
-#Como Ejecutarlo
+# Como Ejecutarlo
 
-npm install para las dependencias
+- npm install para las dependencias
 
-npm start para ejecutar
+- npm start para ejecutar
